@@ -51,3 +51,5 @@ streamlit run app.py
 ## Liscense
 The MultiPDF App is released under the MIT License.
 
+## Acknowledgment
+Reference - [Ask Multiple PDFs](https://github.com/alejandro-ao/ask-multiple-pdfs/tree/main)
