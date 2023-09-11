@@ -37,7 +37,7 @@ Then from the app.py run the following command in the terminal using `streamlit`
 ```bash
 streamlit run app.py
 ```
-
+PS. In the .env file you can change the environment variable API TOKEN
 
 ## Usage
 
